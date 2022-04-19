@@ -1,0 +1,5446 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`swap between any 2 boxes 1`] = `
+<div
+  style={
+    Object {
+      "display": "block",
+      "padding": "10% 37%",
+      "width": "100wh",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexWrap": "wrap",
+        "width": 400,
+      }
+    }
+  >
+    <div
+      name="57c30a"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#57c30a",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#57c30a",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="58589c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#58589c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#58589c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2a3538"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2a3538",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2a3538",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c44bdc"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c44bdc",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c44bdc",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8ece0a"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8ece0a",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8ece0a",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d0aad8"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d0aad8",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d0aad8",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="51e8e7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#51e8e7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#51e8e7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8505b3"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8505b3",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8505b3",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8281"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8281",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8281",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="689d0d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#689d0d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#689d0d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cc9f0c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cc9f0c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cc9f0c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cc9914"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cc9914",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cc9914",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="35bb22"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#35bb22",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#35bb22",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d5c719"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d5c719",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d5c719",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="bbe68d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#bbe68d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#bbe68d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="f5b10"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f5b10",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#f5b10",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7c1699"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7c1699",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7c1699",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="856677"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#856677",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#856677",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2843ff"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2843ff",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2843ff",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c593be"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c593be",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c593be",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="3bb2e7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3bb2e7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#3bb2e7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cf5251"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cf5251",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cf5251",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="a5c581"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#a5c581",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#a5c581",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="432984"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#432984",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#432984",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="ffa24b"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffa24b",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#ffa24b",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2022c1"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2022c1",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2022c1",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="98ca63"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#98ca63",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#98ca63",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4259d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4259d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4259d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d8ac45"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d8ac45",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d8ac45",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c2cc07"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c2cc07",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c2cc07",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8b3162"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8b3162",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8b3162",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="460b8d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#460b8d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#460b8d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="60d6b6"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#60d6b6",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#60d6b6",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="837c0c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#837c0c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#837c0c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="a855a7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#a855a7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#a855a7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d8d059"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d8d059",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d8d059",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8c8a09"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8c8a09",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8c8a09",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="41f955"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#41f955",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#41f955",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="26c721"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#26c721",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#26c721",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="5317ce"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#5317ce",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#5317ce",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="178fee"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#178fee",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#178fee",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="b94b37"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#b94b37",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#b94b37",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c584fa"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c584fa",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c584fa",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c62ab2"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c62ab2",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c62ab2",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="ff60ba"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ff60ba",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#ff60ba",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="843ff4"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#843ff4",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#843ff4",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7a11db"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7a11db",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7a11db",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c48ff"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c48ff",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c48ff",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="981cf3"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#981cf3",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#981cf3",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7fd157"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7fd157",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7fd157",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4b2ffb"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4b2ffb",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4b2ffb",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="3f0a4b"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3f0a4b",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#3f0a4b",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="560b85"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#560b85",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#560b85",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="46cd4e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#46cd4e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#46cd4e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="246408"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#246408",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#246408",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="72cb93"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#72cb93",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#72cb93",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="6d052e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6d052e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#6d052e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4310c0"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4310c0",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4310c0",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="660338"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#660338",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#660338",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="e71996"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#e71996",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#e71996",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="6d199e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6d199e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#6d199e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="fd8701"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#fd8701",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#fd8701",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8fd2df"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8fd2df",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8fd2df",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="56bc59"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#56bc59",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#56bc59",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`swap between any 2 boxes 2`] = `
+<div
+  style={
+    Object {
+      "display": "block",
+      "padding": "10% 37%",
+      "width": "100wh",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexWrap": "wrap",
+        "width": 400,
+      }
+    }
+  >
+    <div
+      name="57c30a"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#57c30a",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#57c30a",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="58589c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#58589c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#58589c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2a3538"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2a3538",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2a3538",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c44bdc"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c44bdc",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c44bdc",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8ece0a"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8ece0a",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8ece0a",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d0aad8"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d0aad8",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d0aad8",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="51e8e7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#51e8e7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#51e8e7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8505b3"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8505b3",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8505b3",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8281"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8281",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8281",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="689d0d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#689d0d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#689d0d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cc9f0c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cc9f0c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cc9f0c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cc9914"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cc9914",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cc9914",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="35bb22"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#35bb22",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#35bb22",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d5c719"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d5c719",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d5c719",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="bbe68d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#bbe68d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#bbe68d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="f5b10"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f5b10",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#f5b10",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7c1699"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7c1699",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7c1699",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="856677"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#856677",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#856677",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2843ff"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2843ff",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2843ff",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c593be"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c593be",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c593be",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="3bb2e7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3bb2e7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#3bb2e7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cf5251"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cf5251",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cf5251",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="a5c581"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#a5c581",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#a5c581",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="432984"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#432984",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#432984",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="ffa24b"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffa24b",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#ffa24b",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2022c1"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2022c1",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2022c1",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="98ca63"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#98ca63",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#98ca63",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4259d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4259d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4259d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d8ac45"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d8ac45",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d8ac45",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c2cc07"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c2cc07",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c2cc07",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8b3162"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8b3162",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8b3162",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="460b8d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#460b8d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#460b8d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="60d6b6"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#60d6b6",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#60d6b6",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="837c0c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#837c0c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#837c0c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="a855a7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#a855a7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#a855a7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d8d059"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d8d059",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d8d059",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8c8a09"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8c8a09",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8c8a09",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="41f955"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#41f955",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#41f955",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="26c721"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#26c721",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#26c721",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="5317ce"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#5317ce",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#5317ce",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="178fee"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#178fee",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#178fee",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="b94b37"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#b94b37",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#b94b37",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c584fa"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c584fa",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c584fa",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c62ab2"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c62ab2",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c62ab2",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="ff60ba"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ff60ba",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#ff60ba",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="843ff4"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#843ff4",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#843ff4",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7a11db"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7a11db",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7a11db",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c48ff"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c48ff",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c48ff",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="981cf3"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#981cf3",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#981cf3",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7fd157"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7fd157",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7fd157",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4b2ffb"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4b2ffb",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4b2ffb",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="3f0a4b"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3f0a4b",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#3f0a4b",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="560b85"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#560b85",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#560b85",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="46cd4e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#46cd4e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#46cd4e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="246408"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#246408",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#246408",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="72cb93"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#72cb93",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#72cb93",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="6d052e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6d052e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#6d052e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4310c0"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4310c0",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4310c0",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="660338"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#660338",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#660338",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="e71996"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#e71996",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#e71996",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="6d199e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6d199e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#6d199e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="fd8701"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#fd8701",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#fd8701",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8fd2df"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8fd2df",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8fd2df",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="56bc59"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#56bc59",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#56bc59",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`swap between any 2 boxes 3`] = `
+<div
+  style={
+    Object {
+      "display": "block",
+      "padding": "10% 37%",
+      "width": "100wh",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexWrap": "wrap",
+        "width": 400,
+      }
+    }
+  >
+    <div
+      name="cc9f0c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cc9f0c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cc9f0c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="58589c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#58589c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#58589c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2a3538"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2a3538",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2a3538",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c44bdc"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c44bdc",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c44bdc",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8ece0a"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8ece0a",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8ece0a",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d0aad8"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d0aad8",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d0aad8",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="51e8e7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#51e8e7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#51e8e7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8505b3"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8505b3",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8505b3",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8281"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8281",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8281",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="689d0d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#689d0d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#689d0d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="57c30a"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#57c30a",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#57c30a",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cc9914"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cc9914",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cc9914",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="35bb22"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#35bb22",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#35bb22",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d5c719"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d5c719",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d5c719",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="bbe68d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#bbe68d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#bbe68d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="f5b10"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#f5b10",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#f5b10",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7c1699"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7c1699",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7c1699",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="856677"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#856677",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#856677",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2843ff"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2843ff",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2843ff",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c593be"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c593be",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c593be",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="3bb2e7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3bb2e7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#3bb2e7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="cf5251"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#cf5251",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#cf5251",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="a5c581"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#a5c581",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#a5c581",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="432984"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#432984",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#432984",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="ffa24b"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ffa24b",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#ffa24b",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="2022c1"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#2022c1",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#2022c1",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="98ca63"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#98ca63",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#98ca63",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4259d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4259d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4259d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d8ac45"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d8ac45",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d8ac45",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c2cc07"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c2cc07",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c2cc07",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8b3162"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8b3162",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8b3162",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="460b8d"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#460b8d",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#460b8d",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="60d6b6"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#60d6b6",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#60d6b6",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="837c0c"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#837c0c",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#837c0c",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="a855a7"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#a855a7",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#a855a7",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="d8d059"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#d8d059",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#d8d059",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8c8a09"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8c8a09",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8c8a09",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="41f955"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#41f955",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#41f955",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="26c721"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#26c721",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#26c721",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="5317ce"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#5317ce",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#5317ce",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="178fee"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#178fee",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#178fee",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="b94b37"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#b94b37",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#b94b37",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c584fa"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c584fa",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c584fa",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c62ab2"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c62ab2",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c62ab2",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="ff60ba"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#ff60ba",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#ff60ba",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="843ff4"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#843ff4",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#843ff4",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7a11db"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7a11db",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7a11db",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="c48ff"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#c48ff",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#c48ff",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="981cf3"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#981cf3",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#981cf3",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="7fd157"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#7fd157",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#7fd157",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4b2ffb"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4b2ffb",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4b2ffb",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="3f0a4b"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#3f0a4b",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#3f0a4b",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="560b85"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#560b85",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#560b85",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="46cd4e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#46cd4e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#46cd4e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="246408"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#246408",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#246408",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="72cb93"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#72cb93",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#72cb93",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="6d052e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6d052e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#6d052e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="4310c0"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#4310c0",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#4310c0",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="660338"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#660338",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#660338",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="e71996"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#e71996",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#e71996",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="6d199e"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#6d199e",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#6d199e",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="fd8701"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#fd8701",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#fd8701",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="8fd2df"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#8fd2df",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#8fd2df",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+    <div
+      name="56bc59"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#56bc59",
+          "height": 50,
+          "width": 50,
+        }
+      }
+    >
+      <div
+        className="mover boxA"
+        draggable="true"
+        onDragStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "#56bc59",
+              "height": 50,
+              "width": 50,
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
